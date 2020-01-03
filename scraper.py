@@ -1,11 +1,11 @@
-import requests
+import requests, json
 
 BASE_URL = "https://www.everlane.com/api/v3/collections/mens-"
 STORE_BASE_URL = "https://www.everlane.com/products/{}?collection=mens-{}"
 
-pages = [
+PAGES = [
     "sweaters",
-    "sweatshirts"
+    "sweatshirts",
     "outerwear",
     "jeans",
     "bottoms",
@@ -14,7 +14,7 @@ pages = [
     ]
 
 # p = JSON.products[i]
-# products def:
+# ProductList def:
 #  {
 #   name=p.display_name: {
 #       store_url:  https://www.everlane.com/products/mens-(PRODUCT NAME)?collection=mens-(COLLECTION),
@@ -32,7 +32,9 @@ pages = [
 #   price: p.price
 #  }
 
-def scrapeEverlane(collection):
+# String ---> JSON
+# GET collection data from everlane as JSON
+def getCollectionData(collection):
     try:
         response = requests.get(BASE_URL + collection)
 
@@ -44,38 +46,74 @@ def scrapeEverlane(collection):
         print('Other error occurred: {}'.format(err))  # Python 3.5
     else:
         print('Success!')
+        # Get JSON
         data = response.json()
-        all_products = data['products']
-        products = {}
-        for p in all_products:
+        return data
 
-            primary_img = ''
-            alt_img = ''
-            for img in p['albums']['square']:
-                if img['tag'] == 'primary':
-                    primary_img = img['src']
-                elif img['tag'] == 'alt':
-                    alt_img = img['src']
-            
-            obj = {
-                'primary_img_url': primary_img,
-                'url': STORE_BASE_URL.format(p['permalink'],collection),
-                'alt_img_url': alt_img
+# JSON String ---> ProductList (see lines 16-33)
+# Parse collection data in ProductList obj
+def parseCollectionData(data, collection):
+    # Find Products in JSON
+    all_products = data['products']
+    # Empty dict to put parsed data in
+    products = {}
+    # Loop over products
+    for p in all_products:
+        # Get image and store urls for product
+        urls = parseUrls(p, collection)
+        name = p['display_name']
+        color = p['color']['name']
+        # Has the same product been found in a different color already?
+        if name in products:
+            # Add images and page url to colors property
+            products[name]['colors'][color] = urls
+        else:
+            # Create new product entry
+            prodObj = {
+                'price': p['price'],
+                'url': urls['url'],
+                'primary_img_url': urls['primary_img_url'],
+                'alt_img_url': urls['alt_img_url'],
+                'colors': {color:urls}
             }
+            products[name] = prodObj
+    return products
 
-            if p['display_name'] in products:
-                products[p['display_name']]['colors'][p['color']['name']] = obj
-            else:
-                prodObj = {
-                    'price': p['price'],
-                    'url': STORE_BASE_URL.format(p['permalink'],collection),
-                    'primary_img_url': primary_img,
-                    'alt_img_url': alt_img,
-                    'colors': {p['color']['name']:obj}
-                }
-                products[p['display_name']] = prodObj
-        return products
+# JSON String ---> JSON
+# Parse specific product urls
+def parseUrls(productData,collection):
+    primary_img = ''
+    alt_img = ''
+    for img in productData['albums']['square']:
+        if img['tag'] == 'primary':
+            primary_img = img['src']
+        elif img['tag'] == 'alt':
+            alt_img = img['src']
 
-        #print(response.text)
+    obj = {
+        'primary_img_url': primary_img,
+        'url': STORE_BASE_URL.format(productData['permalink'],collection),
+        'alt_img_url': alt_img
+    }
 
-print(scrapeEverlane(pages[0]))
+    return obj
+
+# ProductList String ---> null
+# Dump contents of productList to a file name [collection].json
+def outputProductList(productList, collection):
+    with open('products/' + collection + '.json', 'w') as json_file:
+        json.dump(productList,json_file)
+
+# String ---> .json file
+# Create a ProductList from everlane Collection and dump file to products folder
+def scrapeCollection(collection):
+    data = getCollectionData(collection)
+    prodList = parseCollectionData(data,collection)
+    outputProductList(prodList,collection)
+
+# Scrape all collections in PAGES array
+def scrapeEverlane():
+    for collection in PAGES:
+        scrapeCollection(collection)
+
+scrapeEverlane()

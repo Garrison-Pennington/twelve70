@@ -1,0 +1,165 @@
+{
+  "The Performance Jean | Uniform ": {
+    "alt_img_url": "",
+    "price": 68,
+    "url": "https://www.everlane.com/products/mens-skinny-fit-stretch-jean-rinse?collection=mens-jeans",
+    "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/e21d9096_a5c1.jpg",
+    "colors": {
+      "Black": {
+        "alt_img_url": "",
+        "url": "https://www.everlane.com/products/mens-slim-fit-performance-jean-black?collection=mens-jeans",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/3b2b41b5_2b11.jpg"
+      },
+      "Dark Indigo": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/f6eb64e0_6d2b.jpg",
+        "url": "https://www.everlane.com/products/mens-slim-fit-performance-jean-dark-indigo?collection=mens-jeans",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/00ade3c0_2731.jpg"
+      },
+      "Dark Indigo Fade": {
+        "alt_img_url": "",
+        "url": "https://www.everlane.com/products/mens-slim-fit-performance-jean-fremont?collection=mens-jeans",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/f4e8ee9f_f813.jpg"
+      }
+    }
+  },
+  "The Slim Fit Jean": {
+    "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/23f3f3af_b8ea.jpg",
+    "price": 68,
+    "url": "https://www.everlane.com/products/mens-slim-indigo-denim-jeans?collection=mens-jeans",
+    "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/0daa938a_db9f.jpg",
+    "colors": {
+      "Dark Blue Wash": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/71aa5c75_ff47.jpg",
+        "url": "https://www.everlane.com/products/mens-slim-dkbluewash-denim-jeans?collection=mens-jeans",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/80e802c8_e196.jpg"
+      },
+      "Dark Indigo": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/23f3f3af_b8ea.jpg",
+        "url": "https://www.everlane.com/products/mens-slim-indigo-denim-jeans?collection=mens-jeans",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/0daa938a_db9f.jpg"
+      },
+      "Worn-In Indigo": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/ec4b94ff_483c.jpg",
+        "url": "https://www.everlane.com/products/mens-slim-fit-jeans-post?collection=mens-jeans",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/5a0c3415_8ef0.jpg"
+      },
+      "Mid Blue": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/925c773b_4eec.jpg",
+        "url": "https://www.everlane.com/products/mens-slim-blue-denim-jeans?collection=mens-jeans",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/da8cec7a_e80f.jpg"
+      },
+      "Black": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/7c970845_9908.jpg",
+        "url": "https://www.everlane.com/products/mens-slim-black-denim-jeans?collection=mens-jeans",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/1f40946d_e158.jpg"
+      },
+      "Washed Black": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/abaa670c_e823.jpg",
+        "url": "https://www.everlane.com/products/mens-slim-fit-jean-washedblack?collection=mens-jeans",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/0ce530ff_fbde.jpg"
+      }
+    }
+  },
+  "The Skinny Fit Jean": {
+    "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/4994f0ba_d314.jpg",
+    "price": 68,
+    "url": "https://www.everlane.com/products/mens-skinny-fit-jean-washedblack?collection=mens-jeans",
+    "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/6edeebcd_b5e2.jpg",
+    "colors": {
+      "Black": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/ce9817b4_11b3.jpg",
+        "url": "https://www.everlane.com/products/mens-skinny-fit-jean-black?collection=mens-jeans",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/3a6eafff_96a2.jpg"
+      },
+      "Dark Indigo": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/6226b3e1_ea9b.jpg",
+        "url": "https://www.everlane.com/products/mens-skinny-fit-jean-darkindigo?collection=mens-jeans",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/a5efddbc_e4d3.jpg"
+      },
+      "Worn-In Indigo": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/62587a14_ff45.jpg",
+        "url": "https://www.everlane.com/products/mens-skinny-fit-jean-post?collection=mens-jeans",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/25e639f3_92b0.jpg"
+      },
+      "Washed Black": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/4994f0ba_d314.jpg",
+        "url": "https://www.everlane.com/products/mens-skinny-fit-jean-washedblack?collection=mens-jeans",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/6edeebcd_b5e2.jpg"
+      }
+    }
+  },
+  "The Denim Jacket | Uniform": {
+    "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/a825ef47_60c9.jpg",
+    "price": 88,
+    "url": "https://www.everlane.com/products/mens-denim-jacket-classic-bluewash?collection=mens-jeans",
+    "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/95ab01de_c1bf.jpg",
+    "colors": {
+      "Black": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/f7b825ae_f36a.jpg",
+        "url": "https://www.everlane.com/products/mens-denim-jacket-black?collection=mens-jeans",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/03bab6b8_6a35.jpg"
+      },
+      "Vintage Dark Blue Wash": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/fb3c0bb6_b224.jpg",
+        "url": "https://www.everlane.com/products/mens-denim-jacket-vintagedarkbluewash?collection=mens-jeans",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/50ec7d9f_c715.jpg"
+      },
+      "Classic Blue Wash": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/a825ef47_60c9.jpg",
+        "url": "https://www.everlane.com/products/mens-denim-jacket-classic-bluewash?collection=mens-jeans",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/95ab01de_c1bf.jpg"
+      }
+    }
+  },
+  "The Athletic Fit Jean": {
+    "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/1df16e37_c24f.jpg",
+    "price": 68,
+    "url": "https://www.everlane.com/products/mens-athletic-fit-black?collection=mens-jeans",
+    "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/4b9d54ff_6847.jpg",
+    "colors": {
+      "Black": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/1df16e37_c24f.jpg",
+        "url": "https://www.everlane.com/products/mens-athletic-fit-black?collection=mens-jeans",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/4b9d54ff_6847.jpg"
+      },
+      "Dark Indigo": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/8b7081a0_cbc8.jpg",
+        "url": "https://www.everlane.com/products/mens-athletic-fit-darkindigo?collection=mens-jeans",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/2ee2337c_8c2d.jpg"
+      },
+      "Washed Black": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/21ec6265_45c7.jpg",
+        "url": "https://www.everlane.com/products/mens-athletic-fit-washedblack?collection=mens-jeans",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/758c0e72_c307.jpg"
+      }
+    }
+  },
+  "The Straight Fit Jean": {
+    "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/11842550_3b19.jpg",
+    "price": 68,
+    "url": "https://www.everlane.com/products/mens-straight-leg-indigo-denim-jeans?collection=mens-jeans",
+    "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/d1642bbe_fd9c.jpg",
+    "colors": {
+      "Mid Blue": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/4d069df9_0d7d.jpg",
+        "url": "https://www.everlane.com/products/mens-straight-leg-blue-denim-jeans?collection=mens-jeans",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/925fab28_3932.jpg"
+      },
+      "Dark Indigo": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/11842550_3b19.jpg",
+        "url": "https://www.everlane.com/products/mens-straight-leg-indigo-denim-jeans?collection=mens-jeans",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/d1642bbe_fd9c.jpg"
+      },
+      "Dark Blue Wash": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/386d2cbd_a959.jpg",
+        "url": "https://www.everlane.com/products/mens-straight-leg-dkbluewash-denim-jeans?collection=mens-jeans",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/3a3f8a08_15d8.jpg"
+      },
+      "Black": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/59f4cc1c_a00f.jpg",
+        "url": "https://www.everlane.com/products/mens-straight-leg-black-denim-jeans?collection=mens-jeans",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/6593f046_2051.jpg"
+      }
+    }
+  }
+}

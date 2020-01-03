@@ -1,0 +1,405 @@
+{
+  "The Midweight Slim Chino": {
+    "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/7e3a3694_173c.jpg",
+    "price": 68,
+    "url": "https://www.everlane.com/products/mens-slim-pant-khaki?collection=mens-bottoms",
+    "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/89d0cbe3_0889.jpg",
+    "colors": {
+      "Blue Spruce": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/3a7b0c8c_23c9.jpg",
+        "url": "https://www.everlane.com/products/mens-midw-slim-chino-blue-spruce?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/8afbd0d1_bd82.jpg"
+      },
+      "Khaki": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/7e3a3694_173c.jpg",
+        "url": "https://www.everlane.com/products/mens-slim-pant-khaki?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/89d0cbe3_0889.jpg"
+      },
+      "Grey": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/c158dd92_4f85.jpg",
+        "url": "https://www.everlane.com/products/mens-slim-pant-grey?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/4ed7fc47_c1f2.jpg"
+      },
+      "Olive": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/2007ed5f_0f61.jpg",
+        "url": "https://www.everlane.com/products/mens-slim-pant-olive?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/ed5d3a28_6adf.jpg"
+      },
+      "True Navy": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/0b16e32a_30b4.jpg",
+        "url": "https://www.everlane.com/products/mens-slim-pant-truenavy?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/7abb9195_98e6.jpg"
+      },
+      "Muted Black": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/93b40855_ec7e.jpg",
+        "url": "https://www.everlane.com/products/mens-slim-pant-mutedblack?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/556b25f2_3ecc.jpg"
+      },
+      "Plum": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/414310b6_da98.jpg",
+        "url": "https://www.everlane.com/products/mens-midw-slim-chino-plum?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/c982d1e2_f3f0.jpg"
+      },
+      "Ochre": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/d8a1409c_3bfc.jpg",
+        "url": "https://www.everlane.com/products/mens-slim-pant-ochre?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/6b43a1e7_f296.jpg"
+      }
+    }
+  },
+  "The Heavyweight Tapered Chino": {
+    "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/fb8d015b_742c.jpg",
+    "price": 68,
+    "url": "https://www.everlane.com/products/mens-heavyweight-tprd-chino-militaryolive?collection=mens-bottoms",
+    "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/b478a8b3_6d48.jpg",
+    "colors": {
+      "Military Olive": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/fb8d015b_742c.jpg",
+        "url": "https://www.everlane.com/products/mens-heavyweight-tprd-chino-militaryolive?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/b478a8b3_6d48.jpg"
+      }
+    }
+  },
+  "The Midweight Athletic Chino": {
+    "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/0a7fd5d4_2b47.jpg",
+    "price": 68,
+    "url": "https://www.everlane.com/products/mens-midw-athletic-chino-deepolive?collection=mens-bottoms",
+    "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/b8accb70_194a.jpg",
+    "colors": {
+      "Deep Olive": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/0a7fd5d4_2b47.jpg",
+        "url": "https://www.everlane.com/products/mens-midw-athletic-chino-deepolive?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/b8accb70_194a.jpg"
+      }
+    }
+  },
+  "The Classic French Terry Sweatpant": {
+    "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/b0ebcdaf_0a00.jpg",
+    "price": 55,
+    "url": "https://www.everlane.com/products/mens-french-terry-sweatpant-heathergrey?collection=mens-bottoms",
+    "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/cbefd5bd_1d15.jpg",
+    "colors": {
+      "Heather Grey": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/b0ebcdaf_0a00.jpg",
+        "url": "https://www.everlane.com/products/mens-french-terry-sweatpant-heathergrey?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/cbefd5bd_1d15.jpg"
+      }
+    }
+  },
+  "The Heavyweight Slim Chino": {
+    "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/a2bcf41f_0087.jpg",
+    "price": 68,
+    "url": "https://www.everlane.com/products/mens-heavyweight-slim-chino-darkkhaki?collection=mens-bottoms",
+    "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/7706f990_603a.jpg",
+    "colors": {
+      "Khaki": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/a2bcf41f_0087.jpg",
+        "url": "https://www.everlane.com/products/mens-heavyweight-slim-chino-darkkhaki?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/7706f990_603a.jpg"
+      },
+      "Pine": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/0a8e5787_43cd.jpg",
+        "url": "https://www.everlane.com/products/mens-hw-slim-chino-pale-sage?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/a04265bc_dc2b.jpg"
+      },
+      "Olive": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/25e18129_fa7b.jpg",
+        "url": "https://www.everlane.com/products/mens-heavyweight-slim-chino-olive?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/e5d42d3a_b90d.jpg"
+      },
+      "Slate Grey": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/2dabd3ca_be56.jpg",
+        "url": "https://www.everlane.com/products/mens-hw-slim-chino-slate-grey?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/a812b8dc_284f.jpg"
+      },
+      "Black": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/f36221cb_7d42.jpg",
+        "url": "https://www.everlane.com/products/mens-heavyweight-slim-chino-black?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/f609b981_2a53.jpg"
+      },
+      "Burgundy": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/90dd6332_6ad6.jpg",
+        "url": "https://www.everlane.com/products/mens-heavyweight-slim-chino-burgundy?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/0fe3d3ea_bfe8.jpg"
+      }
+    }
+  },
+  "The Corduroy 5-Pocket Slim Pant": {
+    "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/6867bc10_52ca.jpg",
+    "price": 68,
+    "url": "https://www.everlane.com/products/mens-corduroy-slim-pant-black?collection=mens-bottoms",
+    "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/936d0a16_6232.jpg",
+    "colors": {
+      "Navy": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/04e17936_f8e7.jpg",
+        "url": "https://www.everlane.com/products/mens-corduroy-slim-pant-navy?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/f18769c5_8f92.jpg"
+      },
+      "Dark Green": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/e5147b9d_60bb.jpg",
+        "url": "https://www.everlane.com/products/mens-corduroy-5-pocket-slim-pant-darkgreen?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/62dd918c_48db.jpg"
+      },
+      "Black": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/6867bc10_52ca.jpg",
+        "url": "https://www.everlane.com/products/mens-corduroy-slim-pant-black?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/936d0a16_6232.jpg"
+      },
+      "Ochre": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/db33dfa1_9d62.jpg",
+        "url": "https://www.everlane.com/products/mens-corduroy-5-pocket-slim-pant-ochre?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/aeee8c5c_12be.jpg"
+      }
+    }
+  },
+  "The Chore Pant": {
+    "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/756c1d2c_48bf.jpg",
+    "price": 78,
+    "url": "https://www.everlane.com/products/mens-carpenter-pant-darknavy?collection=mens-bottoms",
+    "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/a7cbecd3_380e.jpg",
+    "colors": {
+      "Shale": {
+        "alt_img_url": "",
+        "url": "https://www.everlane.com/products/mens-carpenter-pant-shale?collection=mens-bottoms",
+        "primary_img_url": ""
+      },
+      "Dark Navy": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/756c1d2c_48bf.jpg",
+        "url": "https://www.everlane.com/products/mens-carpenter-pant-darknavy?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/a7cbecd3_380e.jpg"
+      },
+      "Ochre": {
+        "alt_img_url": "",
+        "url": "https://www.everlane.com/products/mens-carpenter-pant-ochre?collection=mens-bottoms",
+        "primary_img_url": ""
+      }
+    }
+  },
+  "The Italian Wool Trouser": {
+    "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/d57b7db2_4e25.jpg",
+    "price": 98,
+    "url": "https://www.everlane.com/products/mens-wool-suit-pant-navy?collection=mens-bottoms",
+    "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/b376820b_ff5d.jpg",
+    "colors": {
+      "Navy": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/d57b7db2_4e25.jpg",
+        "url": "https://www.everlane.com/products/mens-wool-suit-pant-navy?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/b376820b_ff5d.jpg"
+      },
+      "Charcoal": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/6abb8ce1_6d90.jpg",
+        "url": "https://www.everlane.com/products/mens-wool-suit-pant-charcoal?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/18ee2bad_ed38.jpg"
+      }
+    }
+  },
+  "The Midweight Straight Chino": {
+    "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/1448f05f_2a54.jpg",
+    "price": 68,
+    "url": "https://www.everlane.com/products/mens-straight-pant-khaki?collection=mens-bottoms",
+    "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/b778c19b_3422.jpg",
+    "colors": {
+      "Blue Spruce": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/f4152888_3bda.jpg",
+        "url": "https://www.everlane.com/products/mens-midw-straight-chino-blue-spruce?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/e46e0589_9ace.jpg"
+      },
+      "Khaki": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/1448f05f_2a54.jpg",
+        "url": "https://www.everlane.com/products/mens-straight-pant-khaki?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/b778c19b_3422.jpg"
+      },
+      "True Navy": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/7bceb67c_7d3c.jpg",
+        "url": "https://www.everlane.com/products/mens-straight-pant-truenavy?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/bccf6245_2d51.jpg"
+      },
+      "Plum": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/43db4e99_3fb4.jpg",
+        "url": "https://www.everlane.com/products/mens-midw-straight-chino-plum?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/8871b8d0_a3e5.jpg"
+      },
+      "Slate Grey": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/933e4ebc_5bb0.jpg",
+        "url": "https://www.everlane.com/products/mens-midw-straight-chino-slate-grey?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/e94d2e3e_b787.jpg"
+      }
+    }
+  },
+  "The Heavyweight Athletic Chino": {
+    "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/052ff76a_ca4e.jpg",
+    "price": 68,
+    "url": "https://www.everlane.com/products/mens-hw-athletic-chino-burgundy?collection=mens-bottoms",
+    "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/54395835_48f2.jpg",
+    "colors": {
+      "Burgundy": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/052ff76a_ca4e.jpg",
+        "url": "https://www.everlane.com/products/mens-hw-athletic-chino-burgundy?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/54395835_48f2.jpg"
+      }
+    }
+  },
+  "The Performance Chino | Uniform": {
+    "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/7c0a6f51_7cf7.jpg",
+    "price": 68,
+    "url": "https://www.everlane.com/products/mens-performance-chino-black?collection=mens-bottoms",
+    "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/a41f5fa3_ef6d.jpg",
+    "colors": {
+      "Black": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/ca617cf5_3e19.jpg",
+        "url": "https://www.everlane.com/products/mens-performance-chino-athletic-black?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/8a1ad3cd_c9d8.jpg"
+      },
+      "Dark Forest": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/2ecfbfc7_0fbb.jpg",
+        "url": "https://www.everlane.com/products/mens-performance-chino-athletic-dark-forest?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/4fc29ba4_6958.jpg"
+      },
+      "Navy": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/f7cf1632_f340.jpg",
+        "url": "https://www.everlane.com/products/mens-performance-chino-athletic-navy?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/3a8f04c1_13d5.jpg"
+      },
+      "Slate Grey": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/77fbc27c_752f.jpg",
+        "url": "https://www.everlane.com/products/mens-performance-chino-athletic-slate?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/9d764860_5688.jpg"
+      },
+      "Stone": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/b36ee2f2_03e4.jpg",
+        "url": "https://www.everlane.com/products/mens-performance-chino-athletic-stone?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/1d8d9776_3e23.jpg"
+      },
+      "Ochre": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/3b175b76_b5c3.jpg",
+        "url": "https://www.everlane.com/products/mens-performance-chino-athletic-ochre?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/0b835d91_643f.jpg"
+      }
+    }
+  },
+  "The Heavyweight Straight Chino": {
+    "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/7ee8d70c_957b.jpg",
+    "price": 68,
+    "url": "https://www.everlane.com/products/mens-heavyweight-straight-chino-darkkhaki?collection=mens-bottoms",
+    "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/0f2ce9da_d321.jpg",
+    "colors": {
+      "Navy": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/72ecb9d3_3661.jpg",
+        "url": "https://www.everlane.com/products/mens-heavyweight-straight-chino-navy?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/817627f6_4476.jpg"
+      },
+      "Khaki": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/7ee8d70c_957b.jpg",
+        "url": "https://www.everlane.com/products/mens-heavyweight-straight-chino-darkkhaki?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/0f2ce9da_d321.jpg"
+      },
+      "Burgundy": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/1d8369f1_cd11.jpg",
+        "url": "https://www.everlane.com/products/mens-heavyweight-straight-chino-burgundy?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/93e9bbf9_989f.jpg"
+      }
+    }
+  },
+  "The Air Chino Drawstring Pant": {
+    "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/da048572_b725.jpg",
+    "price": 58,
+    "url": "https://www.everlane.com/products/mens-air-chino-drawstring-pant-stone?collection=mens-bottoms",
+    "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/b7199102_33a7.jpg",
+    "colors": {
+      "Stone": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/da048572_b725.jpg",
+        "url": "https://www.everlane.com/products/mens-air-chino-drawstring-pant-stone?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/b7199102_33a7.jpg"
+      }
+    }
+  },
+  "The Athletic Fit Jean": {
+    "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/1df16e37_c24f.jpg",
+    "price": 68,
+    "url": "https://www.everlane.com/products/mens-athletic-fit-black?collection=mens-bottoms",
+    "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/4b9d54ff_6847.jpg",
+    "colors": {
+      "Black": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/1df16e37_c24f.jpg",
+        "url": "https://www.everlane.com/products/mens-athletic-fit-black?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/4b9d54ff_6847.jpg"
+      },
+      "Dark Indigo": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/8b7081a0_cbc8.jpg",
+        "url": "https://www.everlane.com/products/mens-athletic-fit-darkindigo?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/2ee2337c_8c2d.jpg"
+      },
+      "Washed Black": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/21ec6265_45c7.jpg",
+        "url": "https://www.everlane.com/products/mens-athletic-fit-washedblack?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/758c0e72_c307.jpg"
+      }
+    }
+  },
+  "The Midweight Twill 5-Pocket Slim Pant": {
+    "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/366ce07c_5156.jpg",
+    "price": 68,
+    "url": "https://www.everlane.com/products/mens-twill-five-pocket-pant-washedblack?collection=mens-bottoms",
+    "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/2be906e3_04a4.jpg",
+    "colors": {
+      "Dark Navy": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/96e21cf7_e85a.jpg",
+        "url": "https://www.everlane.com/products/mens-twill-five-pocket-pant-darknavy?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/c52bcf13_9014.jpg"
+      },
+      "Khaki": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/79ac142b_68ff.jpg",
+        "url": "https://www.everlane.com/products/mens-twill-five-pocket-pant-khaki?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/3937236f_3ee0.jpg"
+      },
+      "Washed Black": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/366ce07c_5156.jpg",
+        "url": "https://www.everlane.com/products/mens-twill-five-pocket-pant-washedblack?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/2be906e3_04a4.jpg"
+      }
+    }
+  },
+  "The Air Chino": {
+    "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/4bcfa393_9492.jpg",
+    "price": 58,
+    "url": "https://www.everlane.com/products/mens-travel-pant-black?collection=mens-bottoms",
+    "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/b180448a_50fb.jpg",
+    "colors": {
+      "Fatigue": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/d1ee0e51_5383.jpg",
+        "url": "https://www.everlane.com/products/mens-air-chino-fatigue?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/212ea96c_5338.jpg"
+      },
+      "Black": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/4bcfa393_9492.jpg",
+        "url": "https://www.everlane.com/products/mens-travel-pant-black?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/b180448a_50fb.jpg"
+      },
+      "Navy": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/4a3bb862_f520.jpg",
+        "url": "https://www.everlane.com/products/mens-travel-pant-navy?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/14ee1750_030c.jpg"
+      },
+      "Light Sage": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/5efa0b84_09c0.jpg",
+        "url": "https://www.everlane.com/products/mens-air-chino-shadow?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/cc6c4d6d_b2a2.jpg"
+      },
+      "Khaki": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/f8538403_4cff.jpg",
+        "url": "https://www.everlane.com/products/mens-travel-pant-khaki?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/27323f90_7c46.jpg"
+      },
+      "Stone": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/ebb680d5_b4fa.jpg",
+        "url": "https://www.everlane.com/products/mens-ltwt-travel-pant-stone?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/47dc888c_0a76.jpg"
+      },
+      "Ochre": {
+        "alt_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/5cf4b42b_3607.jpg",
+        "url": "https://www.everlane.com/products/mens-ltwt-travel-pant-ochre?collection=mens-bottoms",
+        "primary_img_url": "https://res.cloudinary.com/everlane/image/upload/f_auto,q_auto/v1/i/65d47672_803f.jpg"
+      }
+    }
+  }
+}
